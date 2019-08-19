@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## View the demo
+
+[Click Here](https://bubulbobul.github.io/react-tetris).
+
 ## Available Scripts
 
 In the project directory, you can run:
